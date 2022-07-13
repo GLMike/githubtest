@@ -16,4 +16,4 @@ venv/
 # VS Code
 .vscode
 
-larceny.txt
+.node/
